@@ -13,10 +13,11 @@ Technologies Used
 
 HTML: For creating the structure and content of the website.
 CSS: For styling, layout, and basic animations.
+
 How to View
 
 Clone or download the repository to your local machine.
-Open the about.html file in any browser to view the portfolio.
+Open the index.html file in any browser to view the portfolio.
 
 Future Enhancements
 
