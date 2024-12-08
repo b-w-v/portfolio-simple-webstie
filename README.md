@@ -1,4 +1,4 @@
-# portfolio-simple-webstie
+# My-portfolio-simple-webstie
 Portfolio Website
 This is a personal portfolio website created using HTML and CSS. It showcases my skills, projects, and professional background in web development. The website includes sections like an introduction, project showcase, and contact information.
 
